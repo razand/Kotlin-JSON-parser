@@ -1,6 +1,5 @@
 import org.json.JSONArray
 import org.json.JSONObject
-import timber.log.Timber
 import kotlin.reflect.KClass
 import kotlin.reflect.KType
 import kotlin.reflect.full.memberProperties
